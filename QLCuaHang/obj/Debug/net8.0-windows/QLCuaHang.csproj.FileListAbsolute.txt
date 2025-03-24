@@ -1,0 +1,6 @@
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.QLNhanVIen.resources
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.csproj.GenerateResource.cache
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.AssemblyInfoInputs.cache
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.AssemblyInfo.cs
+C:\Users\tson3\source\repos\QuanLyCuaHang\QLCuaHang\obj\Debug\net8.0-windows\QLCuaHang.csproj.CoreCompileInputs.cache
